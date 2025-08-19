@@ -12,6 +12,9 @@ Ele contém apenas uma página informando que o site está em construção, junt
 - Telefone: (13) 99790-2399
 - E-mail: rickpg231@gmail.com
 
+## Visualizar Página
+Acesse a página em manutenção neste link: https://rickpg231.github.io/primeiro-projeto-html/
+
 ---
 
 > Nota: Este projeto foi criado apenas para fins de estudo e prática de HTML e CSS.
